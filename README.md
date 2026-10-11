@@ -2,7 +2,6 @@
 
 A console-based **BMI (Body Mass Index), BMR (Basal Metabolic Rate), and TDEE (Total Daily Energy Expenditure) calculator** written in **8086 Assembly** for the **EMU8086** environment. The project demonstrates low-level programming through keyboard input, arithmetic, control flow, macros, procedures, and DOS interrupts.
 
-> **Project identification:** The supplied source code is a health and fitness calculator, not a personal finance manager. This README documents the functionality present in the supplied program.
 
 ## Features
 
