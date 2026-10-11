@@ -1,0 +1,12 @@
+# Editor/system files
+.DS_Store
+.vscode/
+*.swp
+*.bak
+
+# Generated emulator/assembler outputs
+*.exe
+*.com
+*.obj
+*.lst
+*.map
